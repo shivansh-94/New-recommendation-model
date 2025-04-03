@@ -1,0 +1,679 @@
+attraction_id,tourist_place_id,attraction_name
+1,1,Gateway of India
+2,1,Elephanta Caves
+3,1,Marine Drive
+4,1,Juhu Beach
+5,2,Shaniwar Wada
+6,2,Aga Khan Palace
+7,2,Sinhagad Fort
+8,2,Osho Ashram
+9,3,Trimbakeshwar Temple
+10,3,Sula Vineyards
+11,3,Pandavleni Caves
+12,3,Saptashrungi
+13,4,Ajanta Caves
+14,4,Ellora Caves
+15,4,Bibi Ka Maqbara
+16,4,Daulatabad Fort
+17,5,Deekshabhoomi
+18,5,Sitabuldi Fort
+19,5,Ambazari Lake
+20,5,Maharajbagh Zoo
+21,6,Vitthal Rukmini Temple
+22,6,Pundalik Temple
+23,6,Chandrabhaga River
+24,6,ISKCON Pandharpur
+25,7,Sant Dnyaneshwar Samadhi
+26,7,Indrayani River
+27,7,Vishnupad Temple
+28,7,Muktabai Temple
+29,8,Sant Tukaram Temple
+30,8,Indrayani River
+31,8,Dehu Hills
+32,8,Gatha Mandir
+33,9,Swami Samarth Samadhi
+34,9,Shivpuri Temple
+35,9,Mallikarjun Temple
+36,9,Akkalkot Fort
+37,10,Shri Gajanan Maharaj Temple
+38,10,Anand Sagar
+39,10,Ajanta Caves
+40,10,Lonar Crater
+41,11,Ajinkyatara Fort
+42,11,Thoseghar Waterfalls
+43,11,Kas Plateau
+44,11,Sajjangad Fort
+45,12,Siddheshwar Temple
+46,12,Great Indian Bustard Sanctuary
+47,12,Hipparga Lake
+48,12,Bhuikot Fort
+49,13,Mahalakshmi Temple
+50,13,Panhala Fort
+51,13,Rankala Lake
+52,13,Jyotiba Temple
+53,14,Ganpatipule Beach
+54,14,Ratnadurg Fort
+55,14,Thibaw Palace
+56,14,Jaigad Fort
+57,15,Sindhudurg Fort
+58,15,Tarkarli Beach
+59,15,Vijaydurg Fort
+60,15,Devbag Beach
+61,16,Alibaug Beach
+62,16,Kolaba Fort
+63,16,Kanakeshwar Forest
+64,16,Mandwa Beach
+65,17,Panorama Point
+66,17,Louisa Point
+67,17,Charlotte Lake
+68,17,Echo Point
+69,18,Arthur’s Seat
+70,18,Pratapgad Fort
+71,18,Lingmala Waterfall
+72,18,Mapro Garden
+73,19,Bhushi Dam
+74,19,Tiger’s Leap
+75,19,Rajmachi Fort
+76,19,Karla Caves
+77,20,Bhatsa River Valley
+78,20,Tringalwadi Fort
+79,20,Vipassana Centre
+80,20,Camel Valley
+81,21,Lonar Crater Lake
+82,21,Daitya Sudan Temple
+83,21,Gomukh Temple
+84,21,Motha Maruti Temple
+85,22,Jai Vilas Palace
+86,22,Sunset Point
+87,22,Hanuman Point
+88,22,Shirpamal
+89,23,Randha Falls
+90,23,Arthur Lake
+91,23,Wilson Dam
+92,23,Kalsubai Peak
+93,24,Tadoba National Park
+94,24,Moharli Gate
+95,24,Kolsa Lake
+96,24,Andhari River
+97,25,Ajanta Caves
+98,25,Fardapur Viewpoint
+99,25,Ghrishneshwar Temple
+100,25,Bani Begum Garden
+101,26,Ellora Caves
+102,26,Grishneshwar Temple
+103,26,Daulatabad Fort
+104,26,Khuldabad
+105,27,Pimpalgaon Joga Dam
+106,27,Harishchandragad Fort
+107,27,Shivneri Fort
+108,27,Kalu Waterfalls
+109,28,Gawilgarh Fort
+110,28,Melghat Tiger Reserve
+111,28,Panchbol Point
+112,28,Bhimkund
+113,29,Yashavant Lake
+114,29,Machhindranath Cave
+115,29,Khadki Point
+116,29,Lotus Lake
+117,30,Kelva Beach
+118,30,Shirgaon Fort
+119,30,Mahim Beach
+120,30,Ram Mandir
+121,31,Bordi Beach
+122,31,Asavli Dam
+123,31,Kalpataru Botanical Garden
+124,31,Bahrot Caves
+125,32,Guhagar Beach
+126,32,Vyadeshwar Temple
+127,32,Hedvi Beach
+128,32,Velneshwar Temple
+129,33,Murud Beach
+130,33,Harnai Fort
+131,33,Karde Beach
+132,33,Unhavare Hot Springs
+133,34,Janjira Fort
+134,34,Murud Beach
+135,34,Kasa Fort
+136,34,Garambi Falls
+137,35,Shrivardhan Beach
+138,35,Diveagar Beach
+139,35,Harihareshwar Temple
+140,35,Bankot Fort
+141,36,Harihareshwar Temple
+142,36,Shrivardhan Beach
+143,36,Bagmandala Beach
+144,36,Ganesh Gully
+145,37,Karnala Fort
+146,37,Karnala Bird Sanctuary
+147,37,Kalavantin Durg
+148,37,Prabalgad Fort
+149,38,Bhigwan Bird Sanctuary
+150,38,Kumbhargaon Bird Watching Point
+151,38,Ujani Dam
+152,38,Mayureshwar Wildlife Sanctuary
+153,39,Tarkarli Beach
+154,39,Devbag Beach
+155,39,Sindhudurg Fort
+156,39,Karli Backwaters
+157,40,Kaas Pathar
+158,40,Thoseghar Waterfalls
+159,40,Sajjangad Fort
+160,40,Vajrai Waterfall
+161,41,Bhigwan Bird Sanctuary
+162,41,Ujani Dam
+163,41,Kumbhargaon Birding Point
+164,41,Mayureshwar Wildlife Sanctuary
+165,42,Panhala Fort
+166,42,Jyotiba Temple
+167,42,Sajja Kothi
+168,42,Sambhaji Temple
+169,43,Amboli Ghat
+170,43,Hiranyakeshi Temple
+171,43,Nangarta Falls
+172,43,Mahadevgad Fort
+173,44,Rajmachi Fort
+174,44,Kondane Caves
+175,44,Shrivardhan Fort
+176,44,Udhewadi
+177,45,Mangi Tungi Temple
+178,45,Saptashrungi
+179,45,Trimbakeshwar Temple
+180,45,Ankai Fort
+181,46,Dholya Ganpati Temple
+182,46,Menavali Ghat
+183,46,Nana Phadnavis Wada
+184,46,Pandavgad Fort
+185,47,Bhimashankar Temple
+186,47,Hanuman Lake
+187,47,Gupt Bhimashankar
+188,47,Bhimashankar Wildlife Sanctuary
+189,48,Tamhini Waterfalls
+190,48,Mulshi Lake
+191,48,Devkund Waterfalls
+192,48,Plus Valley Trek
+193,49,Paithan Dam
+194,49,Nath Sagar Lake
+195,49,Sant Eknath Maharaj Samadhi
+196,49,Jayakwadi Bird Sanctuary
+197,50,Taj-ul-Masjid
+198,50,Upper Lake
+199,50,Bhimbetka Caves
+200,50,Sanchi Stupa
+201,51,Rajwada Palace
+202,51,Lal Bagh Palace
+203,51,Sarafa Bazaar
+204,51,Kanch Mandir
+205,52,Mahakaleshwar Temple
+206,52,Kaal Bhairav Temple
+207,52,Ram Ghat
+208,52,Harsiddhi Temple
+209,53,Gwalior Fort
+210,53,Jai Vilas Palace
+211,53,Teli Ka Mandir
+212,53,Sun Temple
+213,54,Bhedaghat
+214,54,Marble Rocks
+215,54,Dhuandhar Falls
+216,54,Madan Mahal Fort
+217,55,Khajuraho Temples
+218,55,Panna National Park
+219,55,Raneh Falls
+220,55,Jain Temples
+221,56,Sanchi Stupa
+222,56,Ashoka Pillar
+223,56,Udayagiri Caves
+224,56,Buddhist Monasteries
+225,57,Bee Falls
+226,57,Jata Shankar Caves
+227,57,Dhupgarh
+228,57,Pandava Caves
+229,58,Omkareshwar Temple
+230,58,Mamleshwar Temple
+231,58,Ahilya Ghat
+232,58,Satmatrika Temples
+233,59,Ahilya Fort
+234,59,Rajwada
+235,59,Narmada Ghat
+236,59,Rehwa Society
+237,60,Jahaz Mahal
+238,60,Hindola Mahal
+239,60,Rani Roopmati Pavilion
+240,60,Baz Bahadur Palace
+241,61,Chanderi Fort
+242,61,Badal Mahal
+243,61,Koshak Mahal
+244,61,Jain Temples
+245,62,Shahi Qila
+246,62,Jama Masjid
+247,62,Asirgarh Fort
+248,62,Tapti River Ghat
+249,63,Maihar Devi Temple
+250,63,Bharhut Stupa
+251,63,Tulsi Museum
+252,63,Madhavgarh Fort
+253,64,Rewa Fort
+254,64,Govindgarh Palace
+255,64,White Tiger Safari
+256,64,Keoti Falls
+257,65,Madhav National Park
+258,65,Chhatri
+259,65,Sakhya Sagar Lake
+260,65,Bhadaiya Kund
+261,66,Kanha National Park
+262,66,Bamni Dadar
+263,66,Kanha Museum
+264,66,Shravan Tal
+265,67,Bandhavgarh National Park
+266,67,Shesh Shaiya
+267,67,Bandhavgarh Fort
+268,67,Tala Village
+269,68,Panna National Park
+270,68,Pandav Falls
+271,68,Raneh Falls
+272,68,Mahamati Temple
+273,69,Sethani Ghat
+274,69,Satpura National Park
+275,69,Pachmarhi
+276,69,Tawa Dam
+277,70,Pench National Park
+278,70,Totladoh Dam
+279,70,Bhimgarh Fort
+280,70,Mahakali Temple
+281,71,Chamunda Mata Temple
+282,71,Meetha Talab
+283,71,Kavadia Hills
+284,71,Kshipra River
+285,72,Bija Mandal
+286,72,Udayagiri Caves
+287,72,Heliodorus Pillar
+288,72,Gyaraspur
+289,73,Chambal Sanctuary
+290,73,Kakanmath Temple
+291,73,Sihoniya
+292,73,Bateshwar Temples
+293,74,Ater Fort
+294,74,Gohad Fort
+295,74,Mata Renuka Temple
+296,74,Vankhandeshwar Temple
+297,75,Peetambara Peeth
+298,75,Sonagiri Temples
+299,75,Datia Palace
+300,75,Badoni
+301,76,Tikamgarh Fort
+302,76,Laxmi Narayan Temple
+303,76,Garhkundar Fort
+304,76,Orchha
+305,77,Jalpamata Mandir
+306,77,Narsinghgarh Fort
+307,77,Khokhari Mahadev
+308,78,Gandhi Sagar Dam
+309,78,Sukhanand Mahadev Temple
+310,78,Bhadwa Mata Temple
+311,79,Pashupatinath Temple
+312,79,Mandsaur Fort
+313,79,Gandhi Sagar Wildlife Sanctuary
+314,80,Karedi Mata Temple
+315,80,Shani Mandir
+316,80,Agar Malwa
+317,81,Baijnath Mahadev Temple
+318,81,Chandrawati Fort
+319,81,Nalkheda Temple
+320,82,Chanderi
+321,82,Kadwaya Temples
+322,82,Jain Temples
+323,82,Kila Kothi
+324,83,Nohleshwar Temple
+325,83,Raneh Falls
+326,83,Jatashankar Temple
+327,84,Kanha National Park
+328,84,Karopani Fossil Park
+329,84,Badi Khermai Temple
+330,85,Amarkantak
+331,85,Narmada Udgam
+332,85,Kapildhara Waterfall
+333,86,Rihand Dam
+334,86,Rose Garden
+335,86,Tippan Tunnel
+336,87,Sanjay National Park
+337,87,Guru Ghasidas National Park
+338,88,Kuno National Park
+339,88,Sheopur Fort
+340,88,Vijaya Mandir
+341,89,Khajuraho Temples
+342,89,Bambar Baini Temple
+343,89,Hanuman Tauria
+344,90,Bawangaja
+345,90,Rajghat
+346,90,Dholawad Dam
+347,91,Omkareshwar Temple
+348,91,Hanuwantiya Island
+349,91,Ghantaghar
+350,92,Balajipuram Temple
+351,92,Satpura Range
+352,92,Muktagiri
+353,93,Handiya
+354,93,Nemawar
+355,93,Narmada Ghat
+356,94,Ganesh Mandir
+357,94,Hanuman Phatak
+358,94,Siddheshwar Temple
+359,95,Patalkot Valley
+360,95,Tamia Hills
+361,95,Tribal Museum
+362,96,Narmada Mandir
+363,96,Bramhan Ghat
+364,96,Jhoteshwar Temple
+365,97,White Rann
+366,97,Aina Mahal
+367,97,Kutch Museum
+368,98,Akshardham Temple
+369,98,Indroda Park
+370,98,Adalaj Stepwell
+371,99,Kirti Mandir
+372,99,Sudama Temple
+373,99,Chowpatty Beach
+374,100,Takhteshwar Temple
+375,100,Victoria Park
+376,100,Nishkalank Mahadev
+377,101,Dwarkadhish Temple
+378,101,Rukmini Temple
+379,101,Bet Dwarka
+380,102,Wadhwan
+381,102,Trineteshwar Temple
+382,102,Chotila Temple
+383,103,Statue of Unity
+384,103,Sardar Sarovar Dam
+385,103,Poicha Temple
+386,104,Girnar
+387,104,Uparkot Fort
+388,104,Ashoka Rock Edicts
+389,105,Modhera Sun Temple
+390,105,Bahuchar Mata Temple
+391,105,Thol Bird Sanctuary
+392,106,Amul Dairy
+393,106,Ranchhodrai Temple
+394,106,Swaminarayan Temple
+395,107,Tithal Beach
+396,107,Wilson Hills
+397,107,Parnera Hill
+398,108,Dandi Beach
+399,108,Udvada
+400,108,Vansda National Park
+401,109,Rotary Dolls Museum
+402,109,Watson Museum
+403,109,Khambhalida Caves
+404,110,Gir National Park
+405,110,Khodiyar Temple
+406,110,Rajmahal
+407,111,Saputara
+408,111,Gira Falls
+409,111,Purna Wildlife Sanctuary
+410,112,Rani ki Vav
+411,112,Sahastra Ling Lake
+412,112,Patan Patola
+413,113,Naulakha Palace
+414,113,Swaminarayan Temple
+415,113,Bhuvaneshwari Temple
+416,114,Balaram Palace
+417,114,Kedarnath Mahadev Temple
+418,114,Jessore Sloth Bear Sanctuary
+419,115,Sarangpur Hanuman Temple
+420,115,Ranpur Fort
+421,115,Gopnath Beach
+422,116,Ratanmahal Sloth Bear Sanctuary
+423,116,Chandni Baug
+424,117,Kadana Dam
+425,117,Pavagarh Hill
+426,117,Kaleshwari Group of Monuments
+427,118,Golden Bridge
+428,118,Ninai Waterfall
+429,118,Kabirvad
+430,119,Mani Mandir
+431,119,Nehru Gate
+432,119,Art Deco Buildings
+433,120,Vadtal Swaminarayan Temple
+434,120,Ranchhodrai Temple
+435,120,Jalampura Jain Temple
+436,121,Mundra Port
+437,121,Shree Bhadreshwar Jain Tirth
+438,121,Mandvi Beach
+439,122,Vijay Vilas Palace
+440,122,Mandvi Beach
+441,122,Shyamji Krishna Varma Memorial
+442,123,Kali Niketan Palace
+443,123,Jambughoda Wildlife Sanctuary
+444,124,Dwarkadhish Temple
+445,124,Nageshwar Jyotirlinga
+446,124,Beyt Dwarka
+447,125,White Rann
+448,125,Kala Dungar
+449,125,Kutch Fossil Park
+450,126,Lothal
+451,126,Dholka Jain Temple
+452,126,Sarangpur Temple
+453,127,Bardoli Satyagraha Memorial
+454,127,Sardar Patel Museum
+455,128,Lakhota Lake
+456,128,Marine National Park
+457,128,Balachadi Beach
+458,129,Jetpur Textile Market
+459,129,Bileshwar Temple
+460,129,Hinglaj Mata Temple
+461,130,Pavagadh Hill
+462,130,Champaner
+463,130,Jand Hanuman Temple
+464,131,Adalaj Stepwell
+465,131,Mahudi Jain Temple
+466,132,Nalsarovar Bird Sanctuary
+467,132,Tata Motors Plant
+468,133,Balaram Palace
+469,133,Ambaji Temple
+470,134,Morbi Palace
+471,134,Mani Mandir
+472,135,Umiya Mata Temple
+473,135,Market Yard
+474,136,Nal Sarovar Bird Sanctuary
+475,136,Becharaji Temple
+476,137,Swaminarayan Temple
+477,137,Sarita Udyan
+478,138,Ghumli Temples
+479,138,Barda Hills Wildlife Sanctuary
+480,139,Vishweshwar Mahadev Temple
+481,139,Akshardham Temple
+482,140,Khedbrahma Temple
+483,140,Polo Forest
+484,141,Hatkeshwar Mahadev Temple
+485,141,Kirti Toran
+486,142,Jalaram Bapa Temple
+487,142,Khodiyar Mata Temple
+488,143,Somnath Temple
+489,143,Bhalka Tirth
+490,143,Prabhas Patan
+491,144,Wadhwan Stepwell
+492,144,Swaminarayan Temple
+493,145,Hawa Mahal
+494,145,Amer Fort
+495,145,City Palace
+496,145,Jantar Mantar
+497,146,Lake Pichola
+498,146,City Palace
+499,146,Jag Mandir
+500,146,Sajjangarh Fort
+501,147,Mehrangarh Fort
+502,147,Umaid Bhawan
+503,147,Jaswant Thada
+504,147,Mandore Gardens
+505,148,Jaisalmer Fort
+506,148,Sam Sand Dunes
+507,148,Patwon Ki Haveli
+508,148,Gadisar Lake
+509,149,Junagarh Fort
+510,149,Karni Mata Temple
+511,149,Lalgarh Palace
+512,149,Gajner Palace
+513,150,Pushkar Lake
+514,150,Brahma Temple
+515,150,Savitri Temple
+516,150,Man Mahal
+517,151,Ajmer Sharif Dargah
+518,151,Ana Sagar Lake
+519,151,Taragarh Fort
+520,151,Akbar’s Palace
+521,152,Chittorgarh Fort
+522,152,Vijay Stambh
+523,152,Kirti Stambh
+524,152,Rana Kumbha Palace
+525,153,Nakki Lake
+526,153,Dilwara Temples
+527,153,Guru Shikhar
+528,153,Achalgarh Fort
+529,154,Kumbhalgarh Fort
+530,154,Badal Mahal
+531,154,Parshuram Mahadev Temple
+532,154,Wildlife Sanctuary
+533,155,Taragarh Fort
+534,155,Bundi Palace
+535,155,Step Wells
+536,155,Nawal Sagar
+537,156,Bala Quila
+538,156,Sariska Tiger Reserve
+539,156,Siliserh Lake
+540,156,Bhangarh Fort
+541,157,Ranthambore National Park
+542,157,Ranthambore Fort
+543,157,Rajiv Gandhi Museum
+544,158,Keoladeo National Park
+545,158,Lohagarh Fort
+546,158,Ganga Mandir
+547,158,Deeg Palace
+548,159,Nagaur Fort
+549,159,Tarkeen Dargah
+550,159,Amar Singh’s Cenotaph
+551,159,Khimsar Fort
+552,160,Rani Sati Temple
+553,160,Khetri Mahal
+554,160,Mandawa Havelis
+555,160,Nawalgarh Fort
+556,161,Barmer Fort
+557,161,Kiradu Temples
+558,161,Mahabar Sand Dunes
+559,161,Devka Sun Temple
+560,162,Harshnath Temple
+561,162,Laxmangarh Fort
+562,162,Jeen Mata Temple
+563,162,Sethani Ka Johara
+564,163,Ranakpur Jain Temple
+565,163,Jawai Dam
+566,163,Om Banna Temple
+567,163,Nimbo Ka Nath
+568,164,Dholpur Palace
+569,164,Machkund Temple
+570,164,Shergarh Fort
+571,164,National Chambal Sanctuary
+572,165,Sunehri Kothi
+573,165,Rasiya Ki Tekri
+574,165,Bisalpur Dam
+575,165,Hathi Bhata
+576,166,Jalore Fort
+577,166,Sundha Mata Temple
+578,166,Malik Shah’s Tomb
+579,166,Sirey Mandir
+580,167,Kaila Devi Temple
+581,167,City Palace
+582,167,Madan Mohanji Temple
+583,167,Timangarh Fort
+584,168,Bhatner Fort
+585,168,Kalibangan Archaeological Site
+586,168,Brahmani Mata Temple
+587,168,Gurdwara Sri Kabootar Sahib
+588,169,Shergarh Fort
+589,169,Sitabari
+590,169,Bhand Devra Temple
+591,169,Kanya Dah
+592,170,Chand Baori
+593,170,Mehandipur Balaji
+594,170,Harshat Mata Temple
+595,170,Bhandarej
+596,171,Juna Mahal
+597,171,Gaib Sagar Lake
+598,171,Baneshwar Temple
+599,171,Udai Bilas Palace
+600,172,Jhalawar Fort
+601,172,Gagron Fort
+602,172,Chandrabhaga Temples
+603,172,Sun Temple
+604,173,Churu Fort
+605,173,Sethani Ka Johara
+606,173,Surana Havelis
+607,173,Tal Chappar Sanctuary
+608,174,Devgarh
+609,174,Sita Mata Wildlife Sanctuary
+610,174,Bhanwar Mata Temple
+611,175,Ajari Temple
+612,175,Markundeshwar Cave
+613,175,Chandravati
+614,175,Mirpur Temple
+615,176,Rajsamand Lake
+616,176,Kumbhalgarh Fort
+617,176,Haldighati
+618,176,Dwarkadhish Temple
+619,177,Sunehri Kothi
+620,177,Hathi Bhata
+621,177,Bisalpur Dam
+622,177,Rasiya Ki Tekri
+623,178,Mahi Dam
+624,178,Anand Sagar Lake
+625,178,Tripura Sundari Temple
+626,178,Andeshwar Jain Temple
+627,179,Ranakpur Jain Temple
+628,179,Om Banna Temple
+629,179,Jawai Dam
+630,180,Kaila Devi Temple
+631,180,City Palace
+632,180,Timangarh Fort
+633,181,Shri Digamber Jain Mandir
+634,181,Raghunathji Temple
+635,181,Sethani Ka Johara
+636,182,Shree Sanwaliya Seth Temple
+637,182,Beawar Fort
+638,182,Magarmal Temple
+639,183,Fatehpur Fort
+640,183,Nadol
+641,183,Devgarh
+642,183,Fatehpur Haveli
+643,184,Ramgarh Lake
+644,184,Jamwa Mata Temple
+645,184,Bagh Palace
+646,185,Shahpura Palace
+647,185,Shahpura Haveli
+648,185,Surya Mandir
+649,186,Shiv Temple
+650,186,Neelkanth Mahadev Temple
+651,186,Kotputli Fort
+652,187,Kishangarh Fort
+653,187,Phool Mahal Palace
+654,187,Gundolav Lake
+655,188,Mahwa Fort
+656,188,Radha Krishna Temple
+657,188,Mansarovar Lake
+658,189,Baba Ramdev Temple
+659,189,Maharaja Palace
+660,189,Raisinghnagar Fort
+661,190,Jain Vishwa Bharati Institute
+662,190,Ladnun Fort
+663,190,Jain Temples
+664,191,Nawalgarh Fort
+665,191,Roop Niwas Palace
+666,191,Murarka Haveli
+667,192,Mandawa Fort
+668,192,Murmuria Haveli
+669,192,Harlalka Well
+670,193,Shrinathji Temple
+671,193,Charbhuja Temple
+672,193,Dwarkadheesh Temple
+673,194,Eklingji Temple
+674,194,Nagda
+675,194,Sahastra Bahu Temples
+676,195,Kumbhalgarh Wildlife Sanctuary
+677,195,Badal Mahal
+678,195,Vedi Temple

@@ -1,0 +1,42 @@
+import pandas as pd
+import numpy as np
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
+# Load dataset
+file_path = "/mnt/data/large_tourism_dataset (1).csv"
+df = pd.read_csv(file_path)
+
+# Combine important features into a single text column
+df["combined_features"] = df["Famous Tourist Attractions"] + " " + df["Popular Festivals"] + " " + df["Adventure Activities"] + " " + df["Cultural Significance"]
+
+# Convert text data into numerical vectors
+vectorizer = TfidfVectorizer(stop_words="english")
+feature_vectors = vectorizer.fit_transform(df["combined_features"])
+
+# Compute cosine similarity between tourist attractions
+cosine_sim = cosine_similarity(feature_vectors)
+
+# Function to recommend tourist attractions
+def recommend_attractions(state_name, top_n=5):
+    if state_name not in df["State Name"].values:
+        return f"State '{state_name}' not found in the dataset."
+    
+    # Get index of given state
+    state_index = df[df["State Name"] == state_name].index[0]
+    
+    # Get similarity scores for the given state
+    similar_places = list(enumerate(cosine_sim[state_index]))
+    
+    # Sort by similarity score
+    sorted_places = sorted(similar_places, key=lambda x: x[1], reverse=True)[1:top_n+1]
+    
+    # Get recommended state names and attractions
+    recommendations = [(df.iloc[i[0]]["State Name"], df.iloc[i[0]]["Famous Tourist Attractions"]) for i in sorted_places]
+    
+    return recommendations
+
+# Example: Recommend places similar to "Rajasthan"
+recommended_places = recommend_attractions("Rajasthan")
+for place, attraction in recommended_places:
+    print(f"Recommended Place: {place} | Attraction: {attraction}")

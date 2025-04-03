@@ -6,8 +6,8 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.neighbors import NearestNeighbors
 
 # Load datasets
-tourism_db_path = "D:/cleaned_tourism_db.csv"
-attractions_path = "D:/tourism_attractions.csv"
+tourism_db_path = "cleaned_tourism_db.csv"
+attractions_path = "tourism_attractions.csv"
 
 # Read datasets
 tourism_db = pd.read_csv(tourism_db_path)

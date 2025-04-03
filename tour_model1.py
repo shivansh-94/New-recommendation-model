@@ -12,8 +12,8 @@ OPENWEATHER_API_KEY = "aa89631dd027d04c9ebb2000946bd7bd"
 # Load and cache datasets for better performance
 @st.cache_data
 def load_data():
-    tourism_db_path = "D:/ML model minor/cleaned_tourism_db.csv"
-    attractions_path = "D:/ML model minor/tourism_attractions.csv"
+    tourism_db_path = "cleaned_tourism_db.csv"
+    attractions_path = "tourism_attractions.csv"
 
     tourism_db = pd.read_csv(tourism_db_path)
     attractions = pd.read_csv(attractions_path)
